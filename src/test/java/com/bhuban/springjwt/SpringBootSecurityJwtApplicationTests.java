@@ -1,10 +1,10 @@
-package com.bhuban.jwt;
+package com.bhuban.springjwt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JwtApplicationTests {
+class SpringBootSecurityJwtApplicationTests {
 
 	@Test
 	void contextLoads() {
