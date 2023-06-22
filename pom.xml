@@ -11,7 +11,7 @@
 	<groupId>com.bhuban</groupId>
 	<artifactId>spring-boot-security-jwt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jwt</name>
+	<name>spring-boot-security-jwt</name>
 	<description>Demo project to understand JWT token + role based authentication mechanism </description>
 	<properties>
 		<java.version>17</java.version>
